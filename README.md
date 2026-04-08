@@ -1,5 +1,5 @@
 Call Center Analytics Dashboard
-🚀 Overview
+📶 Overview
 
 This project presents an end-to-end analytics solution for a call center environment using Power BI.
 
